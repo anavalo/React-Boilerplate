@@ -1,0 +1,9 @@
+const page404 = () => {
+    return(
+        <>
+          <h1>PAGE NOT FOUND</h1>
+        </>
+    )
+}
+
+export default page404
